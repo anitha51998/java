@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class STR
+public class STR
 {
 public static void main(String args[])
 {
