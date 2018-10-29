@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class FactorialExample {
+ class FactorialExample {
 
-     static void main(String[] args) {
+public static void main(String[] args) {
 
     	//We will find the factorial of this number
         int number;
