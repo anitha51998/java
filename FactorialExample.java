@@ -16,6 +16,6 @@ public static void main(String[] args) {
             fact = fact * i;
             i++;
         }
-        System.out.println("Factorial of "+number+" is: "+fact);
+        System.out.println(fact);
     }
 }
