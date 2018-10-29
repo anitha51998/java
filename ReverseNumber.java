@@ -6,7 +6,7 @@ import java.util.Scanner;
    {
       int n, reverse = 0;
          
-      System.out.println("Enter an integer to reverse");
+    
       Scanner in = new Scanner(System.in);
       n = in.nextInt();
          
