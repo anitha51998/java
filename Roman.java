@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Roman {
+ class Roman {
 public static void main(String[] args) {
 String str;
 
